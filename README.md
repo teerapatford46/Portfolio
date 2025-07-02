@@ -41,8 +41,8 @@
 | GROUP BY             |  >  |  LIKE || AVG () |    |
 | ORDER BY (ASC, DESC) |  <  |  NOT  || MAX () |    |
 | UPDATE (SET)         | >=  |    OR ||        |    |
-|  INSERT INTO         | <=  |    IS NULL      |                                  |                       |         
-|     DELETE             |         !<           |    IS NOT NULL   |                                  | |    
+|  INSERT INTO         | <=  |  IS NULL ||     |    |         
+|     DELETE           | !<  | IS NOT NULL ||  |    |  
 
 * ความรู้พื้นฐานเกี่ยวกับ software development models (waterfall, iterative and incremental model, agile)
 * Software testing
