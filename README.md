@@ -46,6 +46,7 @@
 * ความรู้พื้นฐานเกี่ยวกับ Functional Testing (Unit Testing, Integration Testing, System Testing, Acceptance Testing)
 * ความรู้พื้นฐานเกี่ยวกับ Non-Functional Testing (Performance Testing, Security Testing, Compatibility Testing, Usability Testing)
 * ความรู้พื้นฐานเกี่ยวกับ (Smoke & Sanity Testing, Regression Testing, Exploratory Testing )
+* มีความรู้ด้านการทำงานแบบ Agile process
 
 ### Soft skills 📁
 * Attention to Detail (ใส่ใจรายละเอียด)
