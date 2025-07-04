@@ -20,6 +20,10 @@
 - [Google Drive](https://workspace.google.com/intl/pl_pl/products/drive/)
 - [GitHub](https://github.com/)
 - [Postman](https://www.postman.com/) - API testing
+- [Visual Studio Code](https://code.visualstudio.com/) - practicing HTML and CSS
+- [Selenium](https://www.selenium.dev/) - Currently learning
+- [Robot framework](https://robotframework.org/) - Currently learning
+- [JMeter](https://jmeter.apache.org/) - Currently learning
 
 ### Tech skills 💻
 - [SQL](https://support.microsoft.com/pl-pl/topic/j%C4%99zyk-access-sql-podstawowe-poj%C4%99cia-s%C5%82ownictwo-i-sk%C5%82adnia-444d0303-cde1-424e-9a74-e8dc3e460671)
