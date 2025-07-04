@@ -58,7 +58,7 @@
 * Empathy (ความเข้าใจผู้อื่น)
 
 ### Courses 📓
-* [Essential SQL for Everyone](https://school.borntodev.com/course/essential-sql-for-everyone)
+* [QA & Software Tester](https://futureskill.co/learning-path/detail/515) + [PORTFOLIO](https://github.com/teerapatford46/QA_Course.git)
 * [Postman](https://school.borntodev.com/course/essential-sql-for-everyone)
 * [Essential SQL for Everyone](https://school.borntodev.com/course/essential-sql-for-everyone)
 
