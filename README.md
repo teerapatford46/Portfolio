@@ -20,7 +20,6 @@
 - [Google Drive](https://workspace.google.com/intl/pl_pl/products/drive/)
 - [GitHub](https://github.com/)
 - [Postman](https://www.postman.com/) - API testing
-- [Robot framework](https://robotframework.org/) - Basic 
 - [jmeter](https://jmeter.apache.org/) - Basic 
 
 ### Tech skills 💻
