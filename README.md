@@ -78,7 +78,7 @@
 * [Test Progress Report](https://docs.google.com/spreadsheets/d/1QCCFVQXGNm9b95_IYrk0X8DVU4F4J1WR_OehPanmmK0/edit?usp=sharing)
 * [Test summary report](https://drive.google.com/file/d/1IojqsdrEHhwSNLuwN-z7CkYR99jjud9R/view?usp=sharing)
 
-### Blogs I read
+### Blogs I read 📰
 * [Software Tester/QA 100.1](https://medium.com/doppiotech/software-tester-qa-100-1-cd076d065907)
 * [Black-Box and White-Box](https://medium.com/kbtg-life/%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A-test-case-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-black-box-%E0%B9%81%E0%B8%A5%E0%B8%B0-white-box-techniques-9978d1387e1)
 
