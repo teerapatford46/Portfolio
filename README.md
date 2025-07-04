@@ -61,7 +61,6 @@
 * [Essential SQL for Everyone](https://school.borntodev.com/course/essential-sql-for-everyone)
 
 ### Certificates 🏆
-* [ก้าวสู่โลกของเทคโนโลยีด้วยการเป็น QA](https://app.futureskill.co/api/certificate?courseId=710&userId=251204)
 * [ความรู้พื้นฐานสำหรับ QA และ Tester](https://app.futureskill.co/api/certificate?courseId=711&userId=251204)
 * [Manual Testing and Test](https://app.futureskill.co/api/certificate?courseId=712&userId=251204)
 * [Essential SQL for Everyone](https://school.borntodev.com/certificate/COsto74f8FCB)
