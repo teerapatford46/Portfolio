@@ -70,7 +70,7 @@
 
 ### Samples 🔬
 **1. หาบัคจากเว็ป academybugs.com**
-* [Find Bugs](https://docs.google.com/spreadsheets/d/1_hhRWhRSVhWeyspMndrGQqI211Cvw1sm4X0WNgYvF4Q/edit?usp=drive_link)
+* [Bug report](https://docs.google.com/spreadsheets/d/1Gq_3hQ2DsvLRgKprU6Av8k2aAmb7un4qJyQY_10gs1A/edit?usp=sharing)
 
 **2. LUMA**
 * [Test plan](https://drive.google.com/file/d/1yImqWHJovWGgs37Ta_oLZXMg2QETSiJZ/view?usp=sharing)
