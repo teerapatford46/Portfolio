@@ -58,12 +58,14 @@
 
 ### Courses 📓
 * [QA & Software Tester](https://futureskill.co/learning-path/detail/515) + [PORTFOLIO](https://github.com/teerapatford46/QA_Course.git)
+* [Software Testing Masterclass](https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/?couponCode=ST17MT70725A)
 * [Postman](https://school.borntodev.com/course/essential-sql-for-everyone)
 * [Essential SQL for Everyone](https://school.borntodev.com/course/essential-sql-for-everyone)
 
 ### Certificates 🏆
 * [ความรู้พื้นฐานสำหรับ QA และ Tester](https://app.futureskill.co/api/certificate?courseId=711&userId=251204)
 * [Manual Testing and Test](https://app.futureskill.co/api/certificate?courseId=712&userId=251204)
+* [Software Testing Masterclass](https://www.udemy.com/certificate/UC-0aa752eb-bb79-4736-b4c0-363a71882948/)
 * [Essential SQL for Everyone](https://school.borntodev.com/certificate/COsto74f8FCB)
 * [Postman 102: Level Up Your API Superpowers](https://school.borntodev.com/certificate/xvfeYoxzAAVa)
 
