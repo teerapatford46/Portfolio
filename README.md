@@ -63,9 +63,10 @@
 * [Essential SQL for Everyone](https://school.borntodev.com/course/essential-sql-for-everyone)
 
 ### Certificates 🏆
-* [ความรู้พื้นฐานสำหรับ QA และ Tester](https://app.futureskill.co/api/certificate?courseId=711&userId=251204)
-* [Manual Testing and Test](https://app.futureskill.co/api/certificate?courseId=712&userId=251204)
 * [Software Testing Masterclass](https://www.udemy.com/certificate/UC-0aa752eb-bb79-4736-b4c0-363a71882948/)
+* [Manual Testing and Test](https://app.futureskill.co/api/certificate?courseId=712&userId=251204)
+* [การวางแผน Test Plan, การสร้าง Test Case และรายงานผลด้วย Test Report](https://app.futureskill.co/api/certificate?courseId=714&userId=251204)
+* [การทำ API และ Functional Manual Test](https://app.futureskill.co/api/certificate?courseId=713&userId=251204)
 * [Essential SQL for Everyone](https://school.borntodev.com/certificate/COsto74f8FCB)
 * [Postman 102: Level Up Your API Superpowers](https://school.borntodev.com/certificate/xvfeYoxzAAVa)
 
